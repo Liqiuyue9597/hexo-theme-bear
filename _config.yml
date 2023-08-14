@@ -2,9 +2,9 @@
 menu:
   归档: /archives
 rss: /atom.xml
-title: GARY.SHEN
+title: liqiuyue
 
-author: GARY.SHEN
+author: liqiuyue
 aboutme: Halo~
 
 # Content
@@ -13,10 +13,10 @@ fancybox: true
 date_format: 'YYYY年MM月DD日'
 
 socials:
-  github: "https://github.com/gary-Shen"
-  flickr: "https://www.flickr.com/photos/69944455@N05/"
-  email: "guanlinshen@126.com"
-  wechat: "Grinson"
+  github: "https://github.com/Liqiuyue9597"
+  掘金: https://juejin.cn/user/1072714335658861
+  email: "liqiuyue9597@foxmail.com"
+  wechat: "xxxx"
 
 
 
@@ -46,8 +46,8 @@ disqus_shortname:
 # Miscellaneous
 google_analytics: 'UA-61220413-1'
 gauges_analytics:
-favicon: /images/avatar.png
-avatar: "/images/avatar.png"
+favicon: /images/avatar.jpg
+avatar: "/images/avatar.jpg"
 twitter:
 google_plus:
 fb_admins:
